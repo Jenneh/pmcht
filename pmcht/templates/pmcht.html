@@ -1,0 +1,13 @@
+<div class='pmcht_main'>
+	<div class='plate'></div>
+	<div class='character'></div>
+	<div class='foodstuffs'>
+		<% _.each(foods, function(food) { %>
+			<div class='foodContainer'>
+				<div class='food' title='' data-id="<%= food.NDB_No %>">
+					<img src='<%= foodsImgDir + food.img %>'>
+				</div>
+			</div>
+		<% }); %>
+	</div>
+</div>

@@ -1,0 +1,17 @@
+<div class='foodTooltip'>
+	<div class='name'><%= foodName %></div>
+	<div class='nutrients'>
+		<% _.each(nutrients, function(nutrient) { %>
+			<div class='nutrient'>
+				<div class='name'><%= nutrient.name %></div>
+				<div class='tokens'>
+					<% for(var i = 0; i < nutrient.tokens; ++i) { %>
+						<div class='token'>
+							<img src='<%= nutrientImgDir %><%= nutrient.img %>'>
+						</div>
+					<% } %>
+				</div>
+			</div>
+		<% }); %>
+	</div>
+</div>

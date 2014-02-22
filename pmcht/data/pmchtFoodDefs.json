@@ -1,0 +1,3719 @@
+[
+    {
+        "NDB_No": "9040",
+        "Long_Desc": "Bananas, raw",
+        "FdGrp_Desc": "Fruits and Fruit Juices\n",
+        "nutrition": [
+            {
+                "val": "1.09",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.33",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "89.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "74.91",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 3
+            },
+            {
+                "val": "2.6",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "5.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.26",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "27.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "22.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "358.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.15",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.078",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.27",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "64.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.1",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "8.7",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.031",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.073",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.665",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.334",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.367",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.5",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.112",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "19093",
+        "Long_Desc": "Candies, SYMPHONY Milk Chocolate Bar",
+        "FdGrp_Desc": "Sweets\n",
+        "nutrition": [
+            {
+                "val": "8.51",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "30.57",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 5
+            },
+            {
+                "val": "531.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 3
+            },
+            {
+                "val": "0.94",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "1.7",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "251.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "0.91",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "206.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "438.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "101.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "229.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "2.2",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "24.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "18.34",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 9
+            }
+        ]
+    },
+    {
+        "NDB_No": "9202",
+        "Long_Desc": "Oranges, raw, navels",
+        "FdGrp_Desc": "Fruits and Fruit Juices\n",
+        "nutrition": [
+            {
+                "val": "0.91",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.15",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "49.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "85.97",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "2.2",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "43.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.13",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "11.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "23.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "166.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.08",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.039",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.029",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "247.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.15",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "59.1",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 10
+            },
+            {
+                "val": "0.068",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.051",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.425",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.261",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.079",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.017",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "9003",
+        "Long_Desc": "Apples, raw, with skin",
+        "FdGrp_Desc": "Fruits and Fruit Juices\n",
+        "nutrition": [
+            {
+                "val": "0.26",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.17",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "52.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "85.56",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "2.4",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "6.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.12",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "5.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "11.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "107.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.04",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.027",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.035",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "54.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.18",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "4.6",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.017",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.026",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.091",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.061",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.041",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "2.2",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 3
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.028",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "28195",
+        "Long_Desc": "MOTHER'S, Chocolate Chip Cookies",
+        "FdGrp_Desc": "Baked Products\n",
+        "nutrition": [
+            {
+                "val": "5.7",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "22.0",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 3
+            },
+            {
+                "val": "490.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 2
+            },
+            {
+                "val": "3.1",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "1.7",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "2.7",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "8.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "42.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "122.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "527.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.3",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.3",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.22",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "2.5",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.01",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "34.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "8.1",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 4
+            }
+        ]
+    },
+    {
+        "NDB_No": "1118",
+        "Long_Desc": "Yogurt, plain, skim milk, 13 grams protein per 8 ounce",
+        "FdGrp_Desc": "Dairy and Egg Products\n",
+        "nutrition": [
+            {
+                "val": "5.73",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.18",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "56.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "85.23",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "0.0",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 0
+            },
+            {
+                "val": "199.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.09",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "19.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "157.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "255.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "77.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.97",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.015",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.005",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "7.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.9",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.048",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.234",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.124",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.641",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.053",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.61",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.2",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "2.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.116",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "1080",
+        "Long_Desc": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D",
+        "FdGrp_Desc": "Dairy and Egg Products\n",
+        "nutrition": [
+            {
+                "val": "3.48",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "1.92",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "51.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "88.86",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "0.0",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 0
+            },
+            {
+                "val": "128.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.05",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "14.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "100.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "162.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "52.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.4",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.008",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.002",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "204.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "40.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "1.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "1.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.04",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.173",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.09",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.336",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.045",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.38",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "8.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1.195",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "21271",
+        "Long_Desc": "PIZZA HUT 12\" Cheese Pizza, Hand-Tossed Crust",
+        "FdGrp_Desc": "Fast Foods\n",
+        "nutrition": [
+            {
+                "val": "11.93",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "10.89",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "271.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "43.29",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "1.8",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "209.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "1.95",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "22.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "249.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "173.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "685.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "1.65",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.092",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.308",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "435.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.7",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.264",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.256",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "3.295",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.285",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.114",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.7",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "10.1",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 14
+            },
+            {
+                "val": "24.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "5.04",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 3
+            }
+        ]
+    },
+    {
+        "NDB_No": "11090",
+        "Long_Desc": "Broccoli, raw",
+        "FdGrp_Desc": "Vegetables and Vegetable Products\n",
+        "nutrition": [
+            {
+                "val": "2.82",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.37",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "34.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "89.3",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "2.6",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "47.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.73",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "21.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "66.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "316.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "33.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.41",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.049",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.21",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "623.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.78",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "89.2",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 15
+            },
+            {
+                "val": "0.071",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.117",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.639",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.573",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.175",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "101.6",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 145
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.039",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "11529",
+        "Long_Desc": "Tomatoes, red, ripe, raw, year round average",
+        "FdGrp_Desc": "Vegetables and Vegetable Products\n",
+        "nutrition": [
+            {
+                "val": "0.88",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.2",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "18.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "94.52",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "1.2",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "10.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.27",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "11.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "24.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "237.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "5.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.17",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.059",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.114",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "833.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 2
+            },
+            {
+                "val": "0.54",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "13.7",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.037",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.019",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.594",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.089",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.08",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "7.9",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 11
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.028",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "8640",
+        "Long_Desc": "Cereals, QUAKER, Instant Oatmeal Organic, Regular",
+        "FdGrp_Desc": "Breakfast Cereals\n",
+        "nutrition": [
+            {
+                "val": "16.0",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 3
+            },
+            {
+                "val": "6.3",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "367.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 2
+            },
+            {
+                "val": "8.8",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "9.8",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "52.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "4.2",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "148.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 4
+            },
+            {
+                "val": "474.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 5
+            },
+            {
+                "val": "350.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "4.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "3.07",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.47",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.73",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 5
+            },
+            {
+                "val": "0.14",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.78",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.12",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "1.11",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "8288",
+        "Long_Desc": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Cereal",
+        "FdGrp_Desc": "Breakfast Cereals\n",
+        "nutrition": [
+            {
+                "val": "4.8",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "4.6",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "399.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 2
+            },
+            {
+                "val": "3.5",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.2",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "10.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "6.2",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "23.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "80.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "77.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "554.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.8",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.1",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1680.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 3
+            },
+            {
+                "val": "0.39",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "135.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 3
+            },
+            {
+                "val": "3.4",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "20.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "1.3",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 9
+            },
+            {
+                "val": "1.4",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 8
+            },
+            {
+                "val": "17.0",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 9
+            },
+            {
+                "val": "1.7",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 9
+            },
+            {
+                "val": "5.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 8
+            },
+            {
+                "val": "1.1",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 2
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.9",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "21250",
+        "Long_Desc": "BURGER KING, Hamburger",
+        "FdGrp_Desc": "Fast Foods\n",
+        "nutrition": [
+            {
+                "val": "14.85",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 3
+            },
+            {
+                "val": "10.55",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "261.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "45.97",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "2.0",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "76.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "2.87",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "25.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "126.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "217.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "461.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "2.38",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.121",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.327",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.04",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.2",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.334",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.227",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "3.947",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.222",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.101",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "5.5",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 8
+            },
+            {
+                "val": "35.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "3.821",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 2
+            }
+        ]
+    },
+    {
+        "NDB_No": "18069",
+        "Long_Desc": "Bread, white, commercially prepared (includes soft bread crumbs)",
+        "FdGrp_Desc": "Baked Products\n",
+        "nutrition": [
+            {
+                "val": "9.15",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "3.19",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "265.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "36.34",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "2.7",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "260.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "3.59",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "25.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "103.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "115.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "491.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.84",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.124",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.592",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "1.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.22",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.533",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 4
+            },
+            {
+                "val": "0.243",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "4.78",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.536",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.087",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.2",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.698",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "18064",
+        "Long_Desc": "Bread, wheat",
+        "FdGrp_Desc": "Baked Products\n",
+        "nutrition": [
+            {
+                "val": "10.37",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "3.44",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "270.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "34.53",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "4.2",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "138.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "3.52",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "46.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "153.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "182.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "519.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "1.18",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.161",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1.192",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 6
+            },
+            {
+                "val": "2.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.19",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "0.2",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.471",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "0.27",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "5.933",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "0.82",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.107",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "4.9",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 7
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.803",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "6395",
+        "Long_Desc": "CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup",
+        "FdGrp_Desc": "Soups, Sauces, and Gravies\n",
+        "nutrition": [
+            {
+                "val": "3.41",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "1.3",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "47.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "88.9",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "1.0",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "11.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.34",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "7.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "35.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "90.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "325.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.18",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.025",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.058",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.017",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.023",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1.352",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "8.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.408",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "11124",
+        "Long_Desc": "Carrots, raw",
+        "FdGrp_Desc": "Vegetables and Vegetable Products\n",
+        "nutrition": [
+            {
+                "val": "0.93",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "0.24",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "41.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "88.29",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "2.8",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "33.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.3",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "12.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "35.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "320.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "69.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.24",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.045",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.143",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "16706.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 33
+            },
+            {
+                "val": "0.66",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 0
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "5.9",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.066",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.058",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.983",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.273",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.138",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "13.2",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 19
+            },
+            {
+                "val": "0.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.037",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 1
+            }
+        ]
+    },
+    {
+        "NDB_No": "19095",
+        "Long_Desc": "Ice creams, vanilla",
+        "FdGrp_Desc": "Sweets\n",
+        "nutrition": [
+            {
+                "val": "3.5",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "11.0",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "207.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 1
+            },
+            {
+                "val": "61.0",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 3
+            },
+            {
+                "val": "0.7",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "128.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.09",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "14.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "105.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "199.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "80.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.69",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.023",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.008",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "421.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.3",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "8.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.2",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.6",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.041",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.24",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.116",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.581",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.048",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.39",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.3",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "44.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "6.79",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 3
+            }
+        ]
+    },
+    {
+        "NDB_No": "21472",
+        "Long_Desc": "Fast Foods, Fried Chicken, Wing, meat and skin and breading",
+        "FdGrp_Desc": "Fast Foods\n",
+        "nutrition": [
+            {
+                "val": "21.34",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 4
+            },
+            {
+                "val": "21.06",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 3
+            },
+            {
+                "val": "319.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 2
+            },
+            {
+                "val": "43.87",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "0.6",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 1
+            },
+            {
+                "val": "34.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.9",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "22.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "178.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "233.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "701.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "1.25",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.165",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.161",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "86.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.33",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "5.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.1",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.058",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.152",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "6.421",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "1.13",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.32",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.41",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 0
+            },
+            {
+                "val": "107.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 4
+            },
+            {
+                "val": "5.5",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 3
+            }
+        ]
+    },
+    {
+        "NDB_No": "1009",
+        "Long_Desc": "Cheese, cheddar",
+        "FdGrp_Desc": "Dairy and Egg Products\n",
+        "nutrition": [
+            {
+                "val": "24.9",
+                "Tagname": "PROCNT",
+                "NutrDesc": "Protein",
+                "Units": "g",
+                "tokens": 5
+            },
+            {
+                "val": "33.14",
+                "Tagname": "FAT",
+                "NutrDesc": "Total lipid (fat)",
+                "Units": "g",
+                "tokens": 5
+            },
+            {
+                "val": "403.0",
+                "Tagname": "ENERC_KCAL",
+                "NutrDesc": "Energy",
+                "Units": "kcal",
+                "tokens": 2
+            },
+            {
+                "val": "36.75",
+                "Tagname": "WATER",
+                "NutrDesc": "Water",
+                "Units": "g",
+                "tokens": 2
+            },
+            {
+                "val": "0.0",
+                "Tagname": "FIBTG",
+                "NutrDesc": "Fiber, total dietary",
+                "Units": "g",
+                "tokens": 0
+            },
+            {
+                "val": "721.0",
+                "Tagname": "CA",
+                "NutrDesc": "Calcium, Ca",
+                "Units": "mg",
+                "tokens": 7
+            },
+            {
+                "val": "0.68",
+                "Tagname": "FE",
+                "NutrDesc": "Iron, Fe",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "28.0",
+                "Tagname": "MG",
+                "NutrDesc": "Magnesium, Mg",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "512.0",
+                "Tagname": "P",
+                "NutrDesc": "Phosphorus, P",
+                "Units": "mg",
+                "tokens": 5
+            },
+            {
+                "val": "98.0",
+                "Tagname": "K",
+                "NutrDesc": "Potassium, K",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "621.0",
+                "Tagname": "NA",
+                "NutrDesc": "Sodium, Na",
+                "Units": "mg",
+                "tokens": 3
+            },
+            {
+                "val": "3.11",
+                "Tagname": "ZN",
+                "NutrDesc": "Zinc, Zn",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.031",
+                "Tagname": "CU",
+                "NutrDesc": "Copper, Cu",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.01",
+                "Tagname": "MN",
+                "NutrDesc": "Manganese, Mn",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "1002.0",
+                "Tagname": "VITA_IU",
+                "NutrDesc": "Vitamin A, IU",
+                "Units": "IU",
+                "tokens": 2
+            },
+            {
+                "val": "0.29",
+                "Tagname": "TOCPHA",
+                "NutrDesc": "Vitamin E (alpha-tocopherol)",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "24.0",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D",
+                "Units": "IU",
+                "tokens": 1
+            },
+            {
+                "val": "0.6",
+                "Tagname": "VITD",
+                "NutrDesc": "Vitamin D (D2 + D3)",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "0.0",
+                "Tagname": "VITC",
+                "NutrDesc": "Vitamin C, total ascorbic acid",
+                "Units": "mg",
+                "tokens": 0
+            },
+            {
+                "val": "0.027",
+                "Tagname": "THIA",
+                "NutrDesc": "Thiamin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.375",
+                "Tagname": "RIBF",
+                "NutrDesc": "Riboflavin",
+                "Units": "mg",
+                "tokens": 2
+            },
+            {
+                "val": "0.08",
+                "Tagname": "NIA",
+                "NutrDesc": "Niacin",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.413",
+                "Tagname": "PANTAC",
+                "NutrDesc": "Pantothenic acid",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.074",
+                "Tagname": "VITB6A",
+                "NutrDesc": "Vitamin B-6",
+                "Units": "mg",
+                "tokens": 1
+            },
+            {
+                "val": "0.83",
+                "Tagname": "VITB12",
+                "NutrDesc": "Vitamin B-12",
+                "Units": null,
+                "tokens": 1
+            },
+            {
+                "val": "2.8",
+                "Tagname": "VITK1",
+                "NutrDesc": "Vitamin K (phylloquinone)",
+                "Units": null,
+                "tokens": 4
+            },
+            {
+                "val": "105.0",
+                "Tagname": "CHOLE",
+                "NutrDesc": "Cholesterol",
+                "Units": "mg",
+                "tokens": 4
+            },
+            {
+                "val": "21.092",
+                "Tagname": "FASAT",
+                "NutrDesc": "Fatty acids, total saturated",
+                "Units": "g",
+                "tokens": 11
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+html {
+	background-image: url("../img/purty_wood.png");
+}
+
+.plate {
+	width: 500px;
+	height: 500px;
+	background-image: url("../img/plate.png");
+	background-size: 500px 500px;
+}
+
+.foodstuffs {
+	background-color: white;
+	width: 600px;
+	display: inline-block;
+}
+.food {
+	float: left;
+	width: 60px;
+	height: 60px;
+	cursor: pointer;
+}
+.food img {
+	width: 50px;
+	position: relative;
+}
+.food:hover img {
+	width: 54px;
+	left: -2px;
+	top: -2px;
+}
+.foodOver img {
+	width: 100px;
+	left: -25px;
+	top: -25px;
+}
+.foodOver:hover img {
+	width: 104px;
+	left: -27px;
+	top: -27px;
+}
+
+.foodTooltip .nutrient .name {
+	float: left;
+	width: 100px;
+}
+.foodTooltip .tokens {
+	overflow: hidden;
+}
+.foodTooltip .token {
+	float: left;
+}
+.foodTooltip .token img {
+	width: 20px;
+}
