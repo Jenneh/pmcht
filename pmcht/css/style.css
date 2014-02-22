@@ -12,10 +12,11 @@ html {
 	height: 500px;
 	background-image: url("../img/plate.png");
 	background-size: 500px 500px;
+	float: left;
 }
 
 .foodstuffs {
-	background-color: white;
+	/*background-color: white;*/
 	width: 600px;
 	display: inline-block;
 }
@@ -26,21 +27,25 @@ html {
 	cursor: pointer;
 }
 .food img {
-	width: 50px;
+	max-width: 50px;
+	max-height: 50px;
 	position: relative;
 }
 .food:hover img {
-	width: 54px;
+	max-width: 54px;
+	max-height: 54px;
 	left: -2px;
 	top: -2px;
 }
 .foodOver img {
-	width: 100px;
+	max-width: 100px;
+	max-height: 100px;
 	left: -25px;
 	top: -25px;
 }
 .foodOver:hover img {
-	width: 104px;
+	max-width: 104px;
+	max-height: 104px;
 	left: -27px;
 	top: -27px;
 }

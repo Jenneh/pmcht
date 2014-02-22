@@ -96,6 +96,10 @@ define(['text!templates/pmcht.html', 'text!data/pmchtFoodDefs.json', 'text!templ
 			over: function(event, ui) {
 				console.log(ui);
 				$(ui.draggable).addClass('foodOver');
+			},
+			out: function(event, ui) {
+				console.log(ui);
+				$(ui.draggable).removeClass('foodOver');
 			}
 		});
 	};
